@@ -1,10 +1,4 @@
-*.jar
-*.class
-*.properties
-*.lst
-*.xml
-**/java/*.java
-*.md
-*.xml
-src/
-main/
+/*
+!/target    
+/target/*
+
