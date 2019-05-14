@@ -3,6 +3,6 @@
 *.properties
 *.lst
 *.xml
-*.java
+**/*.java
 *.md
 *.xml
