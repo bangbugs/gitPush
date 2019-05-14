@@ -3,7 +3,8 @@
 *.properties
 *.lst
 *.xml
-**/*.java
+**/java/*.java
 *.md
 *.xml
-src/main/
+src/
+main/
